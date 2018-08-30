@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\tubro\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.1.0\8007981f7d7540d89cd18471b8e5dcd2b4f99167\common-1.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.2"
+        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
+        <dex dex="F:\git_project\aip-ocr-android-sdk-1.4.2\OCRDemo\app\build\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tubro\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\423f064abd6f6d25ec489c88c67c07fc\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.2"
+        sha1="c9a721adcd7dbae7a197b0ef81102336539f63ff">
+        <dex dex="F:\git_project\aip-ocr-android-sdk-1.4.2\OCRDemo\app\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tubro\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\08fa9a8dc1ccac3aea6171dc1317816f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.2"
+        sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
+        <dex dex="F:\git_project\aip-ocr-android-sdk-1.4.2\OCRDemo\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\git_project\aip-ocr-android-sdk-1.4.2\OCRDemo\app\libs\ocr-sdk.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.2"
+        sha1="5ad68d278e1ba7464783e42e8fb4752ad280dfa6">
+        <dex dex="F:\git_project\aip-ocr-android-sdk-1.4.2\OCRDemo\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tubro\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\77f586d06626227911e744102a3eaf48\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.2"
+        sha1="2feadd535770271ca57b7b431f42151aa4af324a">
+        <dex dex="F:\git_project\aip-ocr-android-sdk-1.4.2\OCRDemo\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\git_project\aip-ocr-android-sdk-1.4.2\OCRDemo\app\libs\ocr-sdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5ad68d278e1ba7464783e42e8fb4752ad280dfa6">
+        <dex dex="F:\git_project\aip-ocr-android-sdk-1.4.2\OCRDemo\app\build\intermediates\pre-dexed\debug\ocr-sdk_d9d9cbad882674c38061e5973224e9f9ce1cb7fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\git_project\aip-ocr-android-sdk-1.4.2\OCRDemo\ocr_ui\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8c2e52d1fcbb0fce1abe72b48f23c51228bb2582">
+        <dex dex="F:\git_project\aip-ocr-android-sdk-1.4.2\OCRDemo\app\build\intermediates\pre-dexed\debug\classes_aa7fe62789342f6522c78ce2da532dd1078cc9ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tubro\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ed29db83389a0584f9ebee16d222406d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.2"
+        sha1="d968b9bd0011800e0d333d1571b8d34bcb8a0b6e">
+        <dex dex="F:\git_project\aip-ocr-android-sdk-1.4.2\OCRDemo\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tubro\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\0fd3c62a5cb288fc3bdc7fe7dc7af4c8\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.2"
+        sha1="3304d33470ff64cf83bce9189ff3648a42eb2aa7">
+        <dex dex="F:\git_project\aip-ocr-android-sdk-1.4.2\OCRDemo\app\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\git_project\aip-ocr-android-sdk-1.4.2\OCRDemo\ocr_ui\build\intermediates\intermediate-jars\release\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.2"
+        sha1="ad43333431ae89c5556f9c0ba8576993b9a2902b">
+        <dex dex="F:\git_project\aip-ocr-android-sdk-1.4.2\OCRDemo\app\build\intermediates\transforms\preDex\release\18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\git_project\aip-ocr-android-sdk-1.4.2\OCRDemo\ocr_ui\build\intermediates\bundles\default\libs\license.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eca3cb381d01815bb3cec10d215f5d6ba1b2308d">
+        <dex dex="F:\git_project\aip-ocr-android-sdk-1.4.2\OCRDemo\app\build\intermediates\pre-dexed\debug\license_69298be66ad7d0c4a2a98b14ebf3e3eac50e85ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tubro\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e00a1d3eee5d43d3c251e36cf705e356\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.2"
+        sha1="71d380aeac037e63bab7bda2ba211777e16a2f42">
+        <dex dex="F:\git_project\aip-ocr-android-sdk-1.4.2\OCRDemo\app\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tubro\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="F:\git_project\aip-ocr-android-sdk-1.4.2\OCRDemo\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tubro\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\6699770adc9ef8810dd4dde750edfa2f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.2"
+        sha1="874f1143c11f5d38533efe512bf913e3e847e7df">
+        <dex dex="F:\git_project\aip-ocr-android-sdk-1.4.2\OCRDemo\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tubro\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.1.1\39ded76b5e1ce1c5b2688e1d25cdc20ecee32007\support-annotations-27.1.1.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.2"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="F:\git_project\aip-ocr-android-sdk-1.4.2\OCRDemo\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tubro\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\63aa970d2cfacd457572d0e9e3b3dd8c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.2"
+        sha1="ec657bb192b20229696216bf233779b16bf75a54">
+        <dex dex="F:\git_project\aip-ocr-android-sdk-1.4.2\OCRDemo\app\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tubro\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.1.0\edf3f7bfb84a7521d0599efa3b0113a0ee90f85\common-1.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.2"
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="F:\git_project\aip-ocr-android-sdk-1.4.2\OCRDemo\app\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tubro\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\205e3cded49849e15a3d547f10959831\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.2"
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="F:\git_project\aip-ocr-android-sdk-1.4.2\OCRDemo\app\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\git_project\aip-ocr-android-sdk-1.4.2\OCRDemo\ocr_ui\libs\license.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.2"
+        sha1="eed1d2e4f67b4e2ae6a838f10b015bf98f1f98ae">
+        <dex dex="F:\git_project\aip-ocr-android-sdk-1.4.2\OCRDemo\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tubro\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f5a1f0e254f9e2705edc810ad4c591dc\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.2"
+        sha1="23dcb4803d3103bde3f3f5db978a726338fe49ae">
+        <dex dex="F:\git_project\aip-ocr-android-sdk-1.4.2\OCRDemo\app\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tubro\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\0ce6493686486b524d63511e06e002f5\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="27.0.2"
+        sha1="8a9fd7c97f1d13f97f3b52f9d2e54cd857d5acf9">
+        <dex dex="F:\git_project\aip-ocr-android-sdk-1.4.2\OCRDemo\app\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+
+</items>
